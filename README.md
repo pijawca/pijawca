@@ -1,6 +1,6 @@
 <img src="https://imgur.com/wNxbnll.png">
 
-- 👋 Hi, I’m @pijawca, Ilya
+- 👋 Hi, I’m @pijawca
 - 👀 I’m interested in Python, Photoshop
 # ✒️ About me:
 ```
