@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/ps12Alz.png">
 
-- 👋 Hi, im from Ust'-Ilimsk
+- 👋 Hi, im from Ust'-Ilimsk now im lived in Novosibirsk
 - 👀 I’m interested in Python, Photoshop
-- 🤙 lolzteam 
+- 🤙 lolzteam hi (sorry)
 # ✒️ About me:
 ```
 My main job it this:
