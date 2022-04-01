@@ -1,15 +1,23 @@
-<img src="https://i.imgur.com/ps12Alz.png">
+![logo](https://i.imgur.com/x0yM7Pa.png)
 
-- 👋 Hi, im from Ust'-Ilimsk now im lived in Novosibirsk
-- 👀 I’m interested in Python, Photoshop
-- 🤙 lolzteam hi (sorry)
-# ✒️ About me:
-```
-My main job it this:
-Welder and Electrician. I really like my job.
-Now i live in the city of Novosibirsk.
-I have no education in programming. But from an early age I was fond of technology, 
-I was drawn into Photoshop, then into programming languages. 
-Learning from my mistakes and trying to get better every day.
-If you have questions about programming, then you can ask me them, maybe I can answer them :)
+![code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![platform](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
+![pypi](https://img.shields.io/pypi/pyversions/py)
+[![github](https://img.shields.io/github/followers/pijawca?style=social)](https://github.com/pijawca)
+
+```python
+import sqlite3
+
+def main():
+    connection = sqlite3.connect("pijawca.db") 
+    cursor = connection.cursor()
+    print (cursor.execute(f"SELECT * FROM user VALUES(?, ?)").fetchall())
+
+def hack():
+    pass #TODO
+
+if __name__ == '__main__':
+    main()
+    
+>>> {'name': 'Porotnikov Ilya', 'age': '24', 'skill': 'Amateur', 'mainWork': 'Welder and Electrician'}
 ```
