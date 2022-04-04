@@ -28,4 +28,5 @@ if __name__ == '__main__':
 | **pijawcabot**                  | [![badge](https://img.shields.io/github/last-commit/pijawca/pijawcabot)](https://github.com/pijawca/pijawcabot)                                     | **TRUE**  | **STABLE**      |
 | **radiophonebot**               | [![badge](https://img.shields.io/github/last-commit/pijawca/radiophonebot)](https://github.com/pijawca/radiophonebot)                               | **FALSE** | **STABLE**      |
 | **##############**              | [![badge](https://img.shields.io/github/last-commit/pijawca/lolzothronebot)](https://github.com/pijawca/lolzothronebot)                                          | **TRUE**  | **NEED UPDATE** |
-######update 04.04.22
+
+_update 04.04.22_
