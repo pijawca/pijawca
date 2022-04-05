@@ -24,7 +24,7 @@ if __name__ == '__main__':
 ---
 | Repo name                       | Status                                                                                                                                              | Private   | WORK            |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|
-| **auto-#############-########** | [![badge](https://img.shields.io/github/last-commit/pijawca/auto-participation-lolzuguru)](https://github.com/pijawca/auto-participation-lolzuguru) | **TRUE**  | **NEED UPDATE** |
+| **auto-#############-########** | [![badge](https://img.shields.io/github/last-commit/pijawca/auto-participation-lolzuguru)](https://github.com/pijawca/auto-participation-lolzguru) | **TRUE**  | **NEED UPDATE** |
 | **pijawcabot**                  | [![badge](https://img.shields.io/github/last-commit/pijawca/pijawcabot)](https://github.com/pijawca/pijawcabot)                                     | **TRUE**  | **STABLE**      |
 | **radiophonebot**               | [![badge](https://img.shields.io/github/last-commit/pijawca/radiophonebot)](https://github.com/pijawca/radiophonebot)                               | **FALSE** | **STABLE**      |
 | **##############**              | [![badge](https://img.shields.io/github/last-commit/pijawca/lolzothronebot)](https://github.com/pijawca/lolzothronebot)                                          | **TRUE**  | **NEED UPDATE** |
