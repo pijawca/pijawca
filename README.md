@@ -22,12 +22,12 @@ if __name__ == '__main__':
 >>> {'name': 'Porotnikov Ilya', 'age': '24', 'skill': 'Amateur', 'mainWork': 'Welder and Electrician', 'language': 'ru-RU, en-US'}
 ```
 ---
-| Repo name                       | Status                                                                                                                                              | Private   | WORK            |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|
-| **auto-#############-########** | [![badge](https://img.shields.io/github/last-commit/pijawca/auto-participation-lolzuguru)](https://github.com/pijawca/auto-participation-lolzguru) | **TRUE**  | **NEED UPDATE** |
-| **pijawcabot**                  | [![badge](https://img.shields.io/github/last-commit/pijawca/pijawcabot)](https://github.com/pijawca/pijawcabot)                                     | **TRUE**  | **STABLE**      |
-| **radiophonebot**               | [![badge](https://img.shields.io/github/last-commit/pijawca/radiophonebot)](https://github.com/pijawca/radiophonebot)                               | **FALSE** | **STABLE**      |
-| **##############**              | [![badge](https://img.shields.io/github/last-commit/pijawca/lolzothronebot)](https://github.com/pijawca/lolzothronebot)                                          | **TRUE**  | **NEED UPDATE** |
-| **##########**              | [![badge](https://img.shields.io/github/last-commit/pijawca/showmehide)](https://github.com/pijawca/showmehide)                                          | **TRUE**  | **STABLE** |
+| Repo name                       | Status                                                                                                                                              |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **auto-#############-########** | [![badge](https://img.shields.io/github/last-commit/pijawca/auto-participation-lolzuguru)](https://github.com/pijawca/auto-participation-lolzguru) |
+| **pijawcabot**                  | [![badge](https://img.shields.io/github/last-commit/pijawca/pijawcabot)](https://github.com/pijawca/pijawcabot)                                     |
+| **radiophonebot**               | [![badge](https://img.shields.io/github/last-commit/pijawca/radiophonebot)](https://github.com/pijawca/radiophonebot)                               |
+| **##############**              | [![badge](https://img.shields.io/github/last-commit/pijawca/lolzothronebot)](https://github.com/pijawca/lolzothronebot)                                          |
+| **##########**              | [![badge](https://img.shields.io/github/last-commit/pijawca/showmehide)](https://github.com/pijawca/showmehide)                                          |
 
 _update 05.04.22_
