@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/x0yM7Pa.png)
+![logo](https://i.imgur.com/ojhA0Wb.jpg)
 
 ![code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![platform](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
@@ -6,19 +6,6 @@
 [![github](https://img.shields.io/github/followers/pijawca?style=social)](https://github.com/pijawca)
 
 ```python
-import sqlite3
-
-def main():
-    connection = sqlite3.connect("pijawca.db") 
-    cursor = connection.cursor()
-    print (cursor.execute(f"SELECT * FROM user VALUES(?, ?)").fetchall())
-
-def hack():
-    pass #TODO
-
-if __name__ == '__main__':
-    main()
-    
->>> {'name': 'Porotnikov Ilya', 'age': '24', 'skill': 'Amateur', 'mainWork': 'Welder and Electrician', 'language': 'ru-RU, en-US'}
+not available in your country
 ```
 ---
