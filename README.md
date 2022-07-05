@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/ojhA0Wb.jpg)
+![logo](https://i.imgur.com/vn3kC5z.jpg)
 
 ![code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![platform](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
