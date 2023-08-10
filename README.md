@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/vQKV7wC/pijawcalogo.png)
+![logo](https://raw.githubusercontent.com/pijawca/pijawca/main/resources/logo.png)
 
 ![Python](https://img.shields.io/badge/Python-Enthusiast-_.svg?logo=Python)
 ![Postgres](https://img.shields.io/badge/PostgresSQL-Enthusiast-_.svg?) 
@@ -8,4 +8,4 @@
 is currently not available in your country
 ```
 
-![yaflex](https://i.ibb.co/3kV04g4/2023-02-11-21-10-20.gif)
+![yaflex](https://raw.githubusercontent.com/pijawca/pijawca/main/resources/flex.gif)
